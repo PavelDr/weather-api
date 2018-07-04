@@ -8,7 +8,7 @@ Installation:
 
 Routes:
 
-* '/' - For check installation, you just see message: API WORK!
+* '/' - For check installation, you just see message: Laravel start page
 * '/weather' - Save file method, need use get request:
 
 * example response string: "File will be create, check storage folder"
